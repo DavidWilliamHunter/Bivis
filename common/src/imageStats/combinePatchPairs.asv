@@ -1,0 +1,5 @@
+function [ combined ] = combinePatchPairs(left, right)
+% [ combined ] = combinePatchPairs(left, right)
+%
+    combined = [ left , right ];
+end
