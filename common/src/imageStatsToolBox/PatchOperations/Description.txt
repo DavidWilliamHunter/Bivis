@@ -1,0 +1,3 @@
+PatchOperations
+
+A set of classes (essentially stubs) describing operations on patch sets.
